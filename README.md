@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F700&background=FFFFFF00&center=true&vCenter=true&width=550&height=100&lines=C+Y+B+E+R+S+E+C+U+R+I+T+Y)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=999&pause=999&color=07F700&background=FFFFFF00&center=true&vCenter=true&height=53&lines=C+Y+B+E+R+S+E+C+U+R+I+T+Y)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
