@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=750&pause=1000&color=00A214&center=true&vCenter=true&width=435&lines=SECURITY+IS+PRIVILEGE)](https://git.io/typing-svg)
 
 
-<h1 align="center">security enthusiast, highly interested in Red Teaming, Cryptography and other related areas.</h1>
+<h1>security enthusiast, highly interested in Red Teaming, Cryptography and other related areas.</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
